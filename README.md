@@ -1,8 +1,9 @@
 # Coming soon
 
-# Modeling Population Growth
+# Population Growth
 
-Population Growth Models
+Modeling Population Growth and their sensitivity to initial conditions.
+<br>
 
 ## Inspiration
 
